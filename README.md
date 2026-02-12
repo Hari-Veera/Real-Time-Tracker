@@ -125,6 +125,6 @@ Email: hariveeramedipudi@gmail.com
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** – feel free to use and modify it.
 
 ---
